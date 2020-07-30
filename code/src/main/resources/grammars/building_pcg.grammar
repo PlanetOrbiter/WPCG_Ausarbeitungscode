@@ -1,0 +1,19 @@
+Building --> BasementBlock FirstFloor RoofBlock
+FirstFloor --> BasementBetweenBlock Floor
+Floor --> FloorBlock : 0.5
+Floor --> FloorBlock BetweenBlock Floor : 0.5
+BasementBlock --> BASEMENT1 : 0.33
+BasementBlock --> BASEMENT2 : 0.33
+BasementBlock --> BASEMENT3 : 0.33
+BasementBetweenBlock --> BASEMENT_BETWEEN : 0.5
+BasementBetweenBlock --> BETWEEN_FLOORS1 : 0.25
+BasementBetweenBlock --> BETWEEN_FLOORS2 : 0.25
+BetweenBlock --> BETWEEN_FLOORS1 : 0.5
+BetweenBlock --> BETWEEN_FLOORS2 : 0.5
+FloorBlock --> FLOOR1 : 0.33
+FloorBlock --> FLOOR2 : 0.33
+FloorBlock --> FLOOR3 : 0.33
+RoofBlock --> ROOF1 : 0.25
+RoofBlock --> ROOF2 : 0.25
+RoofBlock --> ROOF3 : 0.25
+RoofBlock --> ROOF4 : 0.25

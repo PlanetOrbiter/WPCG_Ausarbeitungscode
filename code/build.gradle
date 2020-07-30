@@ -1,0 +1,23 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'antlr'
+
+mainClassName = 'wpcg.ComputergraphicsApplication'
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+def jme3 = [v: '3.2.4-stable', g: 'org.jmonkeyengine']
+
+dependencies {
+    implementation "${jme3.g}:jme3-core:${jme3.v}"
+    implementation "${jme3.g}:jme3-effects:${jme3.v}"
+    implementation "${jme3.g}:jme3-plugins:${jme3.v}"
+    runtimeOnly "${jme3.g}:jme3-desktop:${jme3.v}"
+    runtimeOnly "${jme3.g}:jme3-lwjgl:${jme3.v}"
+    implementation group: 'junit', name: 'junit', version: '4.12'
+    implementation 'org.glassfish.jaxb:jaxb-runtime:2.3.2' // only required with 3.2.4-stable
+    implementation 'org.json:json:20190722'
+}

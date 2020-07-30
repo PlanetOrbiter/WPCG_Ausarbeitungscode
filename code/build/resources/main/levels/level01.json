@@ -1,0 +1,297 @@
+{
+  "zellen": [
+    {
+      "indexJ": 2,
+      "nachbarn": [
+        26,
+        -1,
+        -1,
+        30,
+        28,
+        20
+      ],
+      "indexI": 3
+    },
+    {
+      "indexJ": 1,
+      "nachbarn": [
+        2,
+        -1,
+        -1,
+        26,
+        21,
+        0
+      ],
+      "indexI": 3
+    },
+    {
+      "indexJ": 3,
+      "nachbarn": [
+        15,
+        28,
+        23,
+        -1,
+        17,
+        18
+      ],
+      "indexI": 2
+    },
+    {
+      "indexJ": 0,
+      "nachbarn": [
+        -1,
+        -1,
+        29,
+        4,
+        -1,
+        -1
+      ],
+      "indexI": 0
+    },
+    {
+      "indexJ": 0,
+      "nachbarn": [
+        -1,
+        -1,
+        9,
+        3,
+        12,
+        -1
+      ],
+      "indexI": 2
+    },
+    {
+      "indexJ": 2,
+      "nachbarn": [
+        32,
+        24,
+        13,
+        22,
+        -1,
+        -1
+      ],
+      "indexI": 0
+    },
+    {
+      "indexJ": 3,
+      "nachbarn": [
+        10,
+        17,
+        -1,
+        -1,
+        -1,
+        25
+      ],
+      "indexI": 1
+    },
+    {
+      "indexJ": 1,
+      "nachbarn": [
+        3,
+        1,
+        0,
+        8,
+        11,
+        19
+      ],
+      "indexI": 2
+    },
+    {
+      "indexJ": 2,
+      "nachbarn": [
+        8,
+        21,
+        20,
+        15,
+        27,
+        6
+      ],
+      "indexI": 2
+    },
+    {
+      "indexJ": 1,
+      "nachbarn": [
+        31,
+        11,
+        6,
+        16,
+        24,
+        7
+      ],
+      "indexI": 1
+    },
+    {
+      "indexJ": 1,
+      "nachbarn": [
+        4,
+        5,
+        7,
+        32,
+        -1,
+        -1
+      ],
+      "indexI": 0
+    },
+    {
+      "indexJ": 0,
+      "nachbarn": [
+        -1,
+        -1,
+        -1,
+        2,
+        1,
+        9
+      ],
+      "indexI": 3
+    },
+    {
+      "indexJ": 3,
+      "nachbarn": [
+        22,
+        14,
+        25,
+        -1,
+        -1,
+        -1
+      ],
+      "indexI": 0
+    },
+    {
+      "indexJ": 3,
+      "nachbarn": [
+        30,
+        -1,
+        -1,
+        -1,
+        -1,
+        23
+      ],
+      "indexI": 3
+    },
+    {
+      "indexJ": 2,
+      "nachbarn": [
+        16,
+        27,
+        18,
+        10,
+        14,
+        13
+      ],
+      "indexI": 1
+    },
+    {
+      "indexJ": 0,
+      "nachbarn": [
+        -1,
+        12,
+        19,
+        31,
+        5,
+        29
+      ],
+      "indexI": 1
+    }
+  ],
+  "links": [
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": false
+    },
+    {
+      "istWand": true
+    },
+    {
+      "istWand": false
+    }
+  ]
+}

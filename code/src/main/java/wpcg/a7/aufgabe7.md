@@ -1,0 +1,1 @@
+In diesem Package wird die Lösung für das Aufgabenblatt 7 abgelegt.

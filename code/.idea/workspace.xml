@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eca67cf4-978e-46ef-85e8-2000c3fc78dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/wpcg/ComputergraphicsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wpcg/ComputergraphicsApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1dDG9cdOqgA3AGtUA7GioCXZFTv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/wpcg/beziersurface" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="extends Scene" />
+    </option>
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$/src/main/java/wpcg/beziersurface" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BezierCurve" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="wpcg.ComputergraphicsApplication" />
+      <module name="code.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eca67cf4-978e-46ef-85e8-2000c3fc78dc" name="Default Changelist" comment="" />
+      <created>1591952099413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591952099413</updated>
+      <workItem from="1591952123964" duration="1086000" />
+      <workItem from="1592568643493" duration="3115000" />
+      <workItem from="1592577313789" duration="1221000" />
+      <workItem from="1593161703639" duration="328000" />
+      <workItem from="1596049261639" duration="609000" />
+      <workItem from="1596051981729" duration="596000" />
+      <workItem from="1596052875048" duration="1889000" />
+      <workItem from="1596055476282" duration="2553000" />
+      <workItem from="1596103230168" duration="26295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="977" y="319" key="#Unnamed" timestamp="1596128054757">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="977" y="319" key="#Unnamed/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596128054757" />
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596128140357">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596128140357" />
+    <state x="1009" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596127941687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1009" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596127941687" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1596128174773">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596128174773" />
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom" timestamp="1596146025083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596146025083" />
+    <state width="2517" height="399" key="GridCell.Tab.0.center" timestamp="1596146025083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596146025083" />
+    <state width="2517" height="399" key="GridCell.Tab.0.left" timestamp="1596146025083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596146025083" />
+    <state width="2517" height="399" key="GridCell.Tab.0.right" timestamp="1596146025083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596146025083" />
+    <state width="2517" height="182" key="GridCell.Tab.1.bottom" timestamp="1596145890486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596145890486" />
+    <state width="2517" height="182" key="GridCell.Tab.1.center" timestamp="1596145890486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596145890486" />
+    <state width="2517" height="182" key="GridCell.Tab.1.left" timestamp="1596145890486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596145890486" />
+    <state width="2517" height="182" key="GridCell.Tab.1.right" timestamp="1596145890486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="182" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596145890486" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1596136524816">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596136524816" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1596137508521">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/-1920.189.1920.1040@0.0.2560.1400" timestamp="1596137508521" />
+  </component>
+</project>
